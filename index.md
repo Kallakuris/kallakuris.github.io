@@ -4,7 +4,7 @@ title: Home
 ---
 
 ## About
-I am passionate about building products, processes, and services that enhance user value and experience. Here are some of the [ideas](kallakuris.github.io/ideas).
+I am passionate about building products, processes, and services that enhance user value and experience. Here are some of the [ideas](/ideas).
 
 I have over 23 years of experience in delivering high impact transformation initiatives in operations and business functions. I worked in multiple industries including financial services, automotive, technology products, digital commerce, and telecom.
 
