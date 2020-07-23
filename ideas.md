@@ -40,3 +40,5 @@ title: Ideas
 - Order Anything with Ease
 - An Intelligent Solution for Managing Bookings at Fitness Centers
 - HiGenie - Tracking Hygiene of Food Preparation
+
+[back](./)
