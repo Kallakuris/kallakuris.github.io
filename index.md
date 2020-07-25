@@ -4,12 +4,12 @@ title: Home
 ---
 
 ## About
-I am passionate about building products, processes, and services that enhance user value and experience. Here are some of the [ideas](/ideas).
+I am passionate about simplifying products, processes, and services that enhance user value and experience. 
 
-I have over 23 years of experience in delivering high impact transformation initiatives in operations and business functions. I worked in multiple industries including financial services, automotive, technology products, digital commerce, and telecom.
+Here are some of the [ideas](/ideas).
 
-My focus areas included operations, product strategy, business model design, transformations, analytics and insights, and 360-degree valuation of business/operating models. The primary focus has been on simplification and alignment of products, services, and operations to enhance business value, customer experience, and employee engagement.
+Here are my views on [product management](/blog).
 
-My other interests include – astrophysics, capitalism, democracy, and emerging technologies.
+I’ve spent over 23 years in leading operational excellence, product management, and transformation initiatives. I have worked in manufacturing, engineering, technology, and consulting areas in multiple industries. I’m now an independent consultant working with clients on product strategy, operating models, growth plans, and evaluation of private equity deals. Read my blog on these topics @ [kallakuris.com](kallakuris.com).
 
-Happy to hear your comments or suggestions. Thanks.
+My email is [chandra@kallakuris.com](mailto: chandra@kallakuris.com). You can find me on Twitter [@_kallakuris](twitter.com/_kallakuris).
